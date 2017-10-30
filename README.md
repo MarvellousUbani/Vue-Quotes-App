@@ -1,6 +1,6 @@
-# vue-cli
+# A Vue Quotes App
 
-> A Vue Quotes App
+> 
 
 ## Build Setup
 
